@@ -18,8 +18,7 @@ Here are some ideas to get you started:
   <h3>끊임없이 성장하는 개발자입니다. 🚀</h3>
   
   <p>
-    <a href="https://github.com/namunsoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그-f75748?style=for-the-badge&logo=tistory&logoColor=black"/></a>
+    <a href="https://namunsoo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그-f75748?style=for-the-badge&logo=tistory&logoColor=black"/></a>
   </p>
 </div>
 
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=namunsoo&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=namunsoo&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=namunsoo&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namunsoo&layout=compact&theme=buefy&hide_border=true&langs_count=8" width="48%"/>
 </div>
 
@@ -65,7 +64,9 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 ## 💡 About Me
 - 🌱 현재 집중하고 있는 분야: 
 - 🎯 목표: 
 - 📫 연락처:
+-->
