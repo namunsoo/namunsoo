@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namunsoo&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namunsoo&layout=compact&theme=radical&hide_border=true" width="48%"/>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namunsoo&show_icons=true&theme=radical)
 </div>
 
 <div align="center">
