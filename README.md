@@ -59,8 +59,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namunsoo&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namunsoo&theme=radical&hide_border=true" width="100%"/>
 </div>
+
 
 ---
 
