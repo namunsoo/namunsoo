@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   <p>
     <a href="https://github.com/namunsoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-    <a href="본인 블로그 주소"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/티스토리 블로그-f75748?style=for-the-badge&logo=tistory&logoColor=black"/></a>
   </p>
 </div>
 
