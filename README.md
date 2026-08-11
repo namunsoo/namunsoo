@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **namunsoo/namunsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,12 +15,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>👋 안녕하세요, 나문수입니다!</h1>
-  <h3>끊임없이 성장하는 개발자입니다. 🚀</h3>
+  <!-- <h3>끊임없이 성장하는 개발자입니다. 🚀</h3> -->
   
   <p>
     <a href="https://github.com/namunsoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-    <!-- 블로그나 링크드인이 있다면 아래에 추가하세요 -->
-    <!-- <a href="본인 블로그 주소"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
+    <a href="본인 블로그 주소"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   </p>
 </div>
 
